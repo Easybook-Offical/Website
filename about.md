@@ -8,11 +8,11 @@ permalink: /about/
 
 ## 我们是谁？
 
-我们是一家轻量化的二手书信息交易平台
+我们是一家轻量化的二手书交易信息平台
 
 ## 如何使用？
 
-您可以点击**此处**提交信息（交易/求购）
+您可以点击[**此处**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACvs5QdUQlBCVTBCVTM2SEQ4TEVNRFNQQVNQRVlCVS4u "**此处**")提交信息（交易/求购）
 
 我们会在1-2个工作日内完成信息的审核和发布
 
