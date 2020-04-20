@@ -10,7 +10,7 @@ permalink: /about/
 
 ## 我该如何使用这个网站？？
 
-您可以点击[**此处**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACvs5QdUQlBCVTBCVTM2SEQ4TEVNRFNQQVNQRVlCVS4u)提交信息（交易/求购）
+您可以点击[**此处**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACvs5QdUQlBCVTBCVTM2SEQ4TEVNRFNQQVNQRVlCVS4u)提交信息（出售/求购）
 
 我们会在1-2个工作日内完成信息的审核和发布
 
