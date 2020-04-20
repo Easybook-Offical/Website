@@ -5,7 +5,7 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: 易书Easybook_Beta
+name: 易书Easybook Beta
 # 描述/签名
 description: 高质量的二手书交易信息发布平台
 
