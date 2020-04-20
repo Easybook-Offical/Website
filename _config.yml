@@ -5,20 +5,18 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: 易书Easybook
+name: 易书Easybook_Beta
 # 描述/签名
-description: 高质量的二手书交易平台
+description: 高质量的二手书交易信息发布平台
 
 #
 # 下面的设定都是可选的
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
-
+avatar: https://i.loli.net/2020/04/20/rDy9gTJ4C1BNqo5.jpg
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
-
+favicon: https://i.loli.net/2020/04/20/EcnBfdgaVtNDOzF.jpg
 
 # 菜单中的按钮
 navigation:
