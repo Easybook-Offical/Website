@@ -16,7 +16,7 @@ permalink: /about/
 
 我们会在1-2个工作日内完成信息的审核和发布
 
-您亦可在[**网站首页**](https://easybook-offical.github.io/website/)、[**分类页**](https://easybook-offical.github.io/website/tags/)或**导航页**浏览已发布的信息
+您亦可在[**网站首页**](https://easybook-offical.github.io/website/)或[**分类页**](https://easybook-offical.github.io/website/tags/)浏览已发布的信息
 
 您可根据交易信息界面内买方/卖方所留联系方式**自行联系对方**，商量交易事宜
 
@@ -28,7 +28,7 @@ permalink: /about/
 
 ## 我该怎么联系你们？
 
-点击[**此处**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACvs5QdUNUZORVBRUEVMRzZBSEhOUksxRkRLM1QyWC4u)填写留言表单或将意见发送至我们的邮箱：Easybook-Offical@outlook.com
+点击[**此处**](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAMAACvs5QdUNUZORVBRUEVMRzZBSEhOUksxRkRLM1QyWC4u)填写留言表单或将意见发送至我们的邮箱：[Easybook-Offical@outlook.com](mailto:Easybook-Offical@outlook.com)
 
 我们会在1-2个工作日内回复
 
