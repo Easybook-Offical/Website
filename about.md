@@ -4,7 +4,7 @@ title: 关于本站
 permalink: /about/
 ---
 
-#  欢迎使用易书Easybook
+#  欢迎使用易书Easybook Beta
 
 ## 我们是谁？
 
