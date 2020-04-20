@@ -5,9 +5,9 @@
 # 你的博客名称，请用你想要的博客名替换“LOFFER”，以下修改都可类似处理
 # 注意，“name: LOFFER”，冒号后面的空格不可以省略。
 # 井号后面的文字是说明文档，不会被程序读取。
-name: 梦貘的blog
+name: 易书Easybook
 # 描述/签名
-description: 人这一辈子总要做点酷酷的事
+description: 高质量的二手书交易平台
 
 #
 # 下面的设定都是可选的
@@ -26,12 +26,10 @@ navigation:
     url: /
   - name: 关于
     url: /about
-  - name: 归档
+  - name: 分类
     url: /archive
   - name: 标签
     url: /tags
-  - name: 资源站
-    url: /pan
 
 # 每页的文章数
 paginate: 8
@@ -41,25 +39,24 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: # frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
-  behance: # https://www.behance.net/<>
-  dribbble: # https://dribbble.com/<>
+  weibo: #除本网站外均为假冒
+  behance: #除本网站外均为假冒
+  dribbble: #除本网站外均为假冒
   email: admin@totemblog.tk
-  facebook: #https://www.facebook.com/<>
-  flickr: #https://www.flickr.com/<>
-  github: # FromEndWorld/loffer #https://github.com/<>
-  instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
-  pinterest: #https://www.pinterest.com/<>
+  facebook: #除本网站外均为假冒
+  flickr: #除本网站外均为假冒
+  github: #除本网站外均为假冒
+  instagram: #除本网站外均为假冒
+  linkedin: #除本网站外均为假冒
+  pinterest: #除本网站外均为假冒
   rss: http://blog.totemblog.tk/feed.xml
-  stackoverflow: # http://stackoverflow.com/<>
-  tumblr: # https://<username>.tumblr.com
-  twitter: # https://www.twitter.com/<your_twitter_username> 
-  youtube: # channel/<your_long_string> or user/<user-name>
+  stackoverflow: #除本网站外均为假冒
+  tumblr: #除本网站外均为假冒
+  twitter: #除本网站外均为假冒 
+  youtube: #除本网站外均为假冒
 
 # 站点页脚的文字
-footer-text: 保留一切权利，未经许可禁止转载
-
+footer-text: Copyright@Easybook-Offical
 # 评论，注意，请不要同时添加多种不同的评论区
 
 # 输入Disqus shortname，即可添加评论区
@@ -76,12 +73,12 @@ gitalk:
 google_analytics:
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: http://blog.totemblog.tk
+url: 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: 
+baseurl: /website
 
 
 #
