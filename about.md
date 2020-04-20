@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 关于本站
+title: 欢迎使用易书Easybook
 permalink: /about/
 ---
-
-#  欢迎使用易书Easybook
 
 ## 我们是谁？
 
